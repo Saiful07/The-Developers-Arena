@@ -1,0 +1,54 @@
+Sample Test Data for Grade Calculator
+=====================================
+
+Test Case 1: Three Students
+----------------------------
+Number of students: 3
+
+Student 1:
+Name: Alice Johnson
+Math: 95
+Science: 92
+English: 88
+
+Student 2:
+Name: Bob Smith
+Math: 78
+Science: 82
+English: 75
+
+Student 3:
+Name: Charlie Brown
+Math: 65
+Science: 70
+English: 68
+
+Expected Results:
+- Alice Johnson: Average 91.7, Grade A
+- Bob Smith: Average 78.3, Grade C
+- Charlie Brown: Average 67.7, Grade D
+
+Test Case 2: Edge Cases
+------------------------
+Student with perfect score:
+Name: Emma Davis
+Math: 100
+Science: 100
+English: 100
+Expected: Average 100.0, Grade A
+
+Student with failing grade:
+Name: David Wilson
+Math: 45
+Science: 50
+English: 48
+Expected: Average 47.7, Grade F
+
+Test Case 3: Validation Testing
+--------------------------------
+Test invalid inputs:
+- Negative numbers (should reject)
+- Numbers > 100 (should reject)
+- Non-numeric input (should reject)
+- Empty student names (should reject)
+- Zero or negative number of students (should reject)

@@ -1,0 +1,84 @@
+============================================================
+            STUDENT GRADE CALCULATOR
+============================================================
+
+Enter number of students: 3
+
+============================== STUDENT 1 ==============================
+Student name: Alice Johnson
+Enter marks (0-100):
+  Math: 95
+  Science: 92
+  English: 88
+
+============================== STUDENT 2 ==============================
+Student name: Bob Smith
+Enter marks (0-100):
+  Math: 78
+  Science: 82
+  English: 75
+
+============================== STUDENT 3 ==============================
+Student name: Charlie Brown
+Enter marks (0-100):
+  Math: 65
+  Science: 70
+  English: 68
+
+============================================================
+                    RESULTS SUMMARY
+============================================================
+Name                 |   Avg | Grade | Comment
+------------------------------------------------------------
+Alice Johnson        |  91.7 |   A   | Excellent! Keep up the great work!
+Bob Smith            |  78.3 |   C   | Good. Room for improvement.
+Charlie Brown        |  67.7 |   D   | Needs Improvement. Please study more.
+
+============================================================
+                  CLASS STATISTICS
+============================================================
+Total Students: 3
+Class Average: 79.2
+Highest Average: 91.7 (Alice Johnson)
+Lowest Average: 67.7 (Charlie Brown)
+============================================================
+
+============================================================
+OPTIONS:
+1. Search for a student
+2. Save results to file
+3. Exit
+============================================================
+Enter your choice (1-3): 1
+
+Enter student name to search: Bob Smith
+
+==================================================
+Student Found: Bob Smith
+==================================================
+Average: 78.3
+Grade: C
+Comment: Good. Room for improvement.
+==================================================
+
+============================================================
+OPTIONS:
+1. Search for a student
+2. Save results to file
+3. Exit
+============================================================
+Enter your choice (1-3): 2
+
+✓ Results saved to results.txt
+
+============================================================
+OPTIONS:
+1. Search for a student
+2. Save results to file
+3. Exit
+============================================================
+Enter your choice (1-3): 3
+
+============================================================
+Thank you for using the Grade Calculator!
+============================================================
