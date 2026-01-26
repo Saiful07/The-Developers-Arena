@@ -10,6 +10,9 @@ A simple Python program that collects and displays personal information with pro
 ### Week 02: Student Grade Calculator
 A comprehensive grade calculator that processes multiple student records, calculates grades with personalized comments, provides class statistics, and includes features like student search and file saving.
 
+### Week 03: Contact Management System
+A complete CRUD application for managing contacts with phone numbers. Features include add/search/update/delete operations, JSON persistence, CSV export, input validation, and contact statistics.
+
 ---
 
 New tasks will be added weekly.
