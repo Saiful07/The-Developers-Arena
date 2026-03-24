@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 85.293,
+    "lat": 22.1051
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 30.07,
+    "feels_like": 28.56,
+    "temp_min": 30.07,
+    "temp_max": 30.07,
+    "pressure": 1012,
+    "humidity": 26,
+    "sea_level": 1012,
+    "grnd_level": 954
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.15,
+    "deg": 209,
+    "gust": 1.82
+  },
+  "clouds": {
+    "all": 4
+  },
+  "dt": 1774326554,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1774311569,
+    "sunset": 1774355451
+  },
+  "timezone": 19800,
+  "id": 1278026,
+  "name": "Kiriburu",
+  "cod": 200
+}
